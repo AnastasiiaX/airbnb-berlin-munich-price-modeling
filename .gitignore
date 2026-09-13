@@ -1,0 +1,15 @@
+# Data (download from https://insideairbnb.com/get-the-data/)
+*.csv
+!assets/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
