@@ -11,8 +11,6 @@ equally well in both cities?
   price-bracket classification 61.1% against 56.6%; KNN room-type classification
   79.2% against 75.9%. The gap holds across three unrelated model families, so it
   is a property of the data rather than of one model.
-  `TODO(owner): why do you think Berlin is more predictable? Larger sample, more
-  uniform market, better-filled fields? This is a likely interview question.`
 - **Price is only weakly predictable from these features.** The best regression
   run left roughly a third of Berlin's price and nearly half of Munich's
   unexplained, and the 5-class price-bracket classifier beat a naive guess by a
@@ -115,4 +113,3 @@ Known limitations, all visible in the notebook:
 ## Authors
 
 Anastasiia Kosareva and Luis Rheinert.
-`TODO(owner): add a one-line split of who did what.`
