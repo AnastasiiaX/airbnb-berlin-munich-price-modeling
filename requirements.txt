@@ -1,0 +1,9 @@
+# Packages imported by Airbnb.ipynb
+pandas
+numpy
+scikit-learn
+xgboost
+scipy
+matplotlib
+seaborn
+jupyter
